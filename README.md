@@ -1,3 +1,16 @@
+# Fork de Contribuição para o Projeto PyNewsServer
+
+**Atenção:** Este é um fork do projeto [PythonFloripa/PyNewsServer](https://github.com/PythonFloripa/PyNewsServer) utilizado para fins de contribuição. O repositório principal contém a versão mais atualizada.
+
+Este repositório foi criado inicialmente para desenvolver a proposta de documentação para o projeto, que foi aceita e integrada através da [**Pull Request \#2**](https://github.com/PythonFloripa/PyNewsServer/pull/2).
+
+### **Minhas Contribuições**
+
+Você pode visualizar todas as minhas contribuições (Pull Requests) para o projeto original no link abaixo:
+
+* [**Ver todas as minhas contribuições no PythonFloripa/PyNewsServer**](https://github.com/PythonFloripa/PyNewsServer/issues?q=is%3Apr%20author%3AIkeSalmonson)
+
+## Versão inicial da documentação para o projeto PyNewsServer
 # pynewsserver
 Serviço de Noticas e Bibliotecas PyNews
 
